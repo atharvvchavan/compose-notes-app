@@ -1,6 +1,6 @@
 # Compose Notes App
 
-![Notes app screenshot](docs/screenshot.png)
+![Notes app screenshot](docs/Notes_app_screenshot.png)
 
 A tiny notes app: a Flask web app and a PostgreSQL database, started together with Docker Compose.
 
